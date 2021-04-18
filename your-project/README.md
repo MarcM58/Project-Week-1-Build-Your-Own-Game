@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*[Batlleship !]*
 
-*[Your Cohort, Campus & Date]*
+*[Data_squad124, Paris, April 2021]*
+*[Mathilde, Pierre and Marc]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,21 +14,24 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+We decided to code a Battleship game simulator using Python for our first project of the bootcamp. Let's see the result ;)
 
 ## Rules
-Briefly describe the rules of the game.
+Both sides (Player versus Computer) is assigned a float containing 6 boats, on a board of 10 rows and 10 columns. 
+The winner is the first who sinks all the ennemy's float. 
+Each turn, one calls a letter between A and J, and a digit between 0 and 9. This exact place is fired on the ennemy board.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+We worked through GitHub as much as possible. Not so easy. So mostly on Slack.
+We used Sublime Text, Spyder, Jupyter Notebook to write code.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Tasks were first planned on a trello.
+Then we worked apart and merge our ideas on zoom meetings or slack.
 
-What does your repository look like? Explain your folder and file structure.
+Our repository is simply made of the python file of the battleship gameplay code, and the traditional README file.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
