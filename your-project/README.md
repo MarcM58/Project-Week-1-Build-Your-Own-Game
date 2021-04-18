@@ -1,10 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Batlleship !]*
+BATTLESHIP !
 
-*[Data_squad124, Paris, April 2021]*
-*[Mathilde, Pierre and Marc]*
+Data_squad124, Paris, April 2021
+Mathilde, Pierre and Marc
 
 ## Content
 - [Project Description](#project-description)
